@@ -6,8 +6,6 @@
 - 📫 Contate-me pelo email: francisco.ferreira@unesp.br
 
 
-[![Francisco Inpácio GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoinacioo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoinacioo&layout=compact&theme=radical)](https://github.com/franciscoinacioo/github-readme-stats)
+[![Francisco Inpácio GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoinacioo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoinacioo&layout=compact&theme=radical)](https://github.com/franciscoinacioo/github-readme-stats)
 
 
