@@ -1,8 +1,8 @@
 ## Olá eu sou o Francisco Inácio 👋
 
 - 🔭 Atualmente sou estudante de Pós-Graduação em Ciências Biológicas pela Unesp e estudante de Ciências de Dados pela Univesp
-- 🌱 Estou aprendendo Python e R, além de um pouco de front-end
-- 👯 Busco trabalhar com Bioinformática
+- 🌱 Estou aprendendo Python e R
+- 👯 Busco trabalhar com Bioinformática e Análise de Dados
 - 📫 Contate-me pelo email: francisco.ferreira@unesp.br
 
 
